@@ -16,3 +16,4 @@ Follow the instructions in your IDE of choice on using Dev Containers
 1. Select File -> Open -> Select `/home/ws/build/compile_commands.json`
 2. Select Call Tools -> Compilation Database -> Change Project Root `/home/ws`
 3. IDE will now not yell at you about files being out of project scope
+#### More information can be found at [link](https://www.jetbrains.com/help/clion/compilation-database.html#compdb_load)
